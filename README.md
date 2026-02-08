@@ -3,7 +3,8 @@
 
 Hey there, I'm Yit Shen! I’m currently studying computer science and hope to become a full-stack developer in the future. I’m learning web development and want to get my hands dirty by contributing to projects that solve real-world problems!
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F51-Sehnn%2F51-Shenn&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+<!-- visitor count -->
+<!-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F51-Sehnn%2F51-Shenn&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> -->
 
 ### 🛠 Languages & Tools
 <p>
@@ -61,3 +62,8 @@ Hey there, I'm Yit Shen! I’m currently studying computer science and hope to b
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=51-Shenn&theme=highcontrast&hide_border=true&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+
+### 📫 Connect With Me!
+<a href="https://www.linkedin.com/in/yit-shen-tan/" target="_blank" rel="noopener noreferrer">
+  <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
