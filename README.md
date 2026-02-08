@@ -37,5 +37,27 @@ Hey there, I'm Yit Shen! I’m currently studying computer science and hope to b
 	<img src="https://img.shields.io/badge/firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
+#### Currently Learning
+<p>
+	<!-- next.js -->
+	<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+	<!-- typescript -->
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+	<!-- tailwind css -->
+	<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+	<!-- better auth -->
+	<img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white">
+	<!-- shadcn/ui -->
+	<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+	<!-- drizzle -->
+	<img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black">
+	<!-- postgresql -->
+	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+	<!-- supabase -->
+	<img src="https://img.shields.io/badge/Supabase-34B27B?style=for-the-badge&logo=supabase&logoColor=white">
+	<!-- vercel -->
+	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=51-Shenn&theme=highcontrast&hide_border=true&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
