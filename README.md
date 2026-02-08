@@ -37,7 +37,7 @@ Hey there, I'm Yit Shen! I’m currently studying computer science and hope to b
 	<img src="https://img.shields.io/badge/firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-#### Currently Learning
+#### ✏️ Currently Learning
 <p>
 	<!-- next.js -->
 	<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
