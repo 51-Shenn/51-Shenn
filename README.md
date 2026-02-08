@@ -1,7 +1,7 @@
-## 👋🏻
+## 👋🏻 Welcome to My Profile!
 **`Computer Science Student`**
 
-Hey there! I’m currently studying computer science and hope to become a full-stack developer in the future. I’m learning web development and want to get my hands dirty by contributing to projects that solve real-world problems!
+Hey there, I'm Yit Shen! I’m currently studying computer science and hope to become a full-stack developer in the future. I’m learning web development and want to get my hands dirty by contributing to projects that solve real-world problems!
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F51-Sehnn%2F51-Shenn&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 
@@ -18,7 +18,7 @@ Hey there! I’m currently studying computer science and hope to become a full-s
 	<!-- python -->
 	<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=blue" />
 	<!-- html -->
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 	<!-- css -->
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 	<!-- flutter -->
@@ -37,5 +37,5 @@ Hey there! I’m currently studying computer science and hope to become a full-s
 	<img src="https://img.shields.io/badge/firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-### GitHub Stats
+### 📊 GitHub Stats
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=51-Shenn&theme=highcontrast&hide_border=true&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
