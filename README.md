@@ -55,12 +55,17 @@ Hi, I'm **Yit Shen**, a Second Year Computer Science Student with a strong inter
 
 ## GitHub Stats
 
-<img
-  src="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200#gh-dark-mode-only"
-  alt="GitHub Streak"
-/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=51-Shenn&theme=light&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200#gh-light-mode-only"
-  alt="GitHub Streak"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=light&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
+  />
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
+  />
+</picture>
