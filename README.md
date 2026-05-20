@@ -40,4 +40,19 @@ Hi, I'm **Yit Shen**, a Second Year Computer Science Student with a strong inter
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=51-Shenn&theme=highcontrast&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+    alt="GitHub Streak"
+  />
+</picture>
