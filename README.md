@@ -1,11 +1,9 @@
-<h1> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&width=435&lines=Tan+Yit+Shen" alt="Typing SVG"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yit-shen-tan">
-	<img src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/linkedin.svg" align="right" />
-  </a>
-</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&repeat=false&width=435&lines=Tan+Yit+Shen" alt="Typing SVG"/>
+</a>
+<a href="https://www.linkedin.com/in/yit-shen-tan">
+  <img src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/linkedin.svg" align="right" />
+</a>
 
 **`Computer Science Major`** `|` **`AI Automation Enthusiast`**
 
