@@ -35,27 +35,27 @@ Hi, I'm **Yit Shen**, a Second Year Computer Science Student with a strong inter
 
 ### Web & Mobile
 
-[![Web and Mobile](https://skills.syvixor.com/api/icons?i=html,css3,js,ts,tailwind,nextjs,flutter,dart,kotlin,android)](https://github.com/syvixor/skills-icons)
+[![Web and Mobile](https://skills.syvixor.com/api/icons?i=html,css3,js,ts,wordpress,tailwind,nextjs,flutter,dart,kotlin,android)](https://github.com/syvixor/skills-icons)
 
 ### Backend & Tools
 
-[![Backend and Tools](https://skills.syvixor.com/api/icons?i=postgresql,supabase,firebase,n8n,git,github,figma)](https://github.com/syvixor/skills-icons)
+[![Backend and Tools](https://skills.syvixor.com/api/icons?i=postgresql,drizzle,supabase,firebase,n8n,git,github,figma,inkscape)](https://github.com/syvixor/skills-icons)
 
 ## GitHub Stats
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=false&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&border_radius=10&mode=daily&card_width=500&card_height=200"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=light&border_radius=10&mode=daily&card_width=500&card_height=200"
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&border_radius=10&mode=daily&card_width=500&card_height=200"
     alt="GitHub Streak"
   />
 </picture>
