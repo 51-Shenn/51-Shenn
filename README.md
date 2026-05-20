@@ -1,8 +1,11 @@
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&pause=500&color=829F9F&vCenter=true&repeat=true&width=435&lines=51-Shenn" alt="Typing SVG" /></a>
+</p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&repeat=false&width=435&lines=Tan+Yit+Shen" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&repeat=false&width=435&lines=Tan+Yit+Shen" alt="Name"/>
 </a>
 <a href="https://www.linkedin.com/in/yit-shen-tan">
-  <img src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/linkedin.svg" align="right" />
+  <img src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" align="right" />
 </a>
 
 **`Computer Science Major`** `|` **`AI Automation Enthusiast`**
@@ -19,7 +22,7 @@ Hi, I'm **Yit Shen**, a Second Year Computer Science Student with a strong inter
     srcset="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake.svg"
   />
   <img
-    alt="github contribution snake"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake.svg"
   />
 </picture>
@@ -43,16 +46,16 @@ Hi, I'm **Yit Shen**, a Second Year Computer Science Student with a strong inter
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=false&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=default&hide_border=false&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
     alt="GitHub Streak"
   />
 </picture>
