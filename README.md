@@ -1,23 +1,15 @@
-# 👋🏻 Hey there, I'm Yit Shen
+<h1> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&width=435&lines=Tan+Yit+Shen" alt="Typing SVG"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yit-shen-tan">
+	<img src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/linkedin.svg" align="right" />
+  </a>
+</h1>
 
-**`Computer Science Student`**
+**`Computer Science Major`** `|` **`AI Automation Enthusiast`**
 
-Hi broski, I'm **Yit Shen**, a Second Year Computer Science Student with a strong interest in building automations that makes everyone life easier!
-
-## My Tech Stack
-
-### Languages
-[![Languages](https://skills.syvixor.com/api/icons?i=python,java,cpp)](https://github.com/syvixor/skills-icons)
-
-### Web & Mobile
-[![Web and Mobile](https://skills.syvixor.com/api/icons?i=html,css3,js,ts,tailwind,nextjs,flutter,dart,kotlin,android)](https://github.com/syvixor/skills-icons)
-
-### Backend & Tools
-[![Backend and Tools](https://skills.syvixor.com/api/icons?i=postgresql,supabase,firebase,n8n,git,github,figma)](https://github.com/syvixor/skills-icons)
-
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=51-Shenn&theme=highcontrast&hide_border=true&border_radius=10&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+Hi, I'm **Yit Shen**, a Second Year Computer Science Student with a strong interest in building automations that makes everyone life easier! 
 
 <picture>
   <source
@@ -34,5 +26,20 @@ Hi broski, I'm **Yit Shen**, a Second Year Computer Science Student with a stron
   />
 </picture>
 
-### 📫 Connect With Me!
-[![Linkedin](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/yit-shen-tan/)
+## My Tech Stack
+
+### Languages
+
+[![Languages](https://skills.syvixor.com/api/icons?i=python,java,cpp)](https://github.com/syvixor/skills-icons)
+
+### Web & Mobile
+
+[![Web and Mobile](https://skills.syvixor.com/api/icons?i=html,css3,js,ts,tailwind,nextjs,flutter,dart,kotlin,android)](https://github.com/syvixor/skills-icons)
+
+### Backend & Tools
+
+[![Backend and Tools](https://skills.syvixor.com/api/icons?i=postgresql,supabase,firebase,n8n,git,github,figma)](https://github.com/syvixor/skills-icons)
+
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=51-Shenn&theme=highcontrast&hide_border=false&border_radius=14&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=500&card_height=200&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
