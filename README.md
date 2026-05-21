@@ -1,14 +1,14 @@
 <p>
   <a href="https://git.io/typing-svg">
     <img 
-	  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&pause=500&color=829F9F&vCenter=true&repeat=true&width=435&lines=51-Shenn" 
+	  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&pause=500&color=829F9F&vCenter=true&repeat=true&width=100&lines=51-Shenn" 
 	  alt="Typing SVG" 
     />
   </a>
 </p>
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&repeat=false&width=435&lines=Tan+Yit+Shen" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&repeat=false&width=200&lines=Tan+Yit+Shen" 
 	alt="Name"
   />
 </a>
