@@ -75,12 +75,30 @@
   <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="Featured Projects" />
 </picture>
 
-|  |  |  |
-| --- | --- | --- |
-| **[WordPress Blog Automation](https://github.com/51-Shenn/wordpress-blog-automation)** | Turns Google Sheets briefs into SEO blog drafts with AI-selected Pexels images, then uploads them to the right WordPress site. Includes status tracking, error logging, and email notifications. <br>[Get the n8n template ↗](https://n8n.io/workflows/15814) | <samp>n8n, OpenAI, WordPress, Google Sheets</samp> |
-| **[HoopMind](https://github.com/51-Shenn/hoopmind)** | NBA knowledge chatbot built across three conversational AI platforms, with answers grounded in a shared basketball dataset. | <samp>Python, Rasa Pro, Dialogflow ES, Botpress</samp> |
-| **[SyncField](https://github.com/51-Shenn/sync-field)** | ImagineHack 2026 team project for construction workforce planning and AI-assisted resource management. | <samp>Next.js, TypeScript, FastAPI, Supabase</samp> |
-| **[MyFin](https://github.com/51-Shenn/myfin)** | SME finance app for expense tracking, financial documents, reports, and an AI assistant. | <samp>Flutter, Dart, Firebase, Gemini</samp> |
+<table>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/51-Shenn/wordpress-blog-automation">WordPress Blog Automation</a></strong></td>
+      <td>Turns Google Sheets briefs into SEO blog drafts with AI-selected Pexels images, then uploads them to the right WordPress site. Includes status tracking, error logging, and email notifications.<br><a href="https://n8n.io/workflows/15814">Get the n8n template ↗</a></td>
+      <td><samp>n8n, OpenAI, WordPress, Google Sheets</samp></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/51-Shenn/hoopmind">HoopMind</a></strong></td>
+      <td>NBA knowledge chatbot built across three conversational AI platforms, with answers grounded in a shared basketball dataset.</td>
+      <td><samp>Python, Rasa Pro, Dialogflow ES, Botpress</samp></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/51-Shenn/sync-field">SyncField</a></strong></td>
+      <td>ImagineHack 2026 team project for construction workforce planning and AI-assisted resource management.</td>
+      <td><samp>Next.js, TypeScript, FastAPI, Supabase</samp></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/51-Shenn/myfin">MyFin</a></strong></td>
+      <td>SME finance app for expense tracking, financial documents, reports, and an AI assistant.</td>
+      <td><samp>Flutter, Dart, Firebase, Gemini</samp></td>
+    </tr>
+  </tbody>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stats-dark.svg" />
