@@ -153,7 +153,13 @@ def main():
     snapshot = OUTPUT / 'profile-stats.json'
     data = json.loads(snapshot.read_text(encoding='utf-8')) if args.cached else fetch(args.login)
     stats = summarize(data)
-    drawings = {f"heading-{title}": heading(title) for title in ("about", "stack", "projects", "stats")}
+    headings = {
+        'about': 'about me',
+        'stack': 'tech stack',
+        'projects': 'featured projects',
+        'stats': 'stats',
+    }
+    drawings = {f'heading-{name}': heading(title) for name, title in headings.items()}
     drawings.update(streak=streak(stats), languages=languages(stats), year=year(stats))
     OUTPUT.mkdir(parents=True, exist_ok=True)
     for theme, palette in PALETTES.items():
