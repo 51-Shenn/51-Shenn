@@ -12,5 +12,5 @@
       .plot { stroke-dasharray: none; }
     }
   </style>
-  <text x="0" y="20" class="ink" font-size="16" text-anchor="start" font-weight="600">projects</text><line x1="100" y1="15" x2="900" y2="15" class="rule"/>
+  <text x="450.0" y="20" class="ink" font-size="16" text-anchor="middle" font-weight="600">featured projects</text><line x1="0" y1="15" x2="345.0" y2="15" class="rule"/><line x1="555.0" y1="15" x2="900" y2="15" class="rule"/>
 </svg>

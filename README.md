@@ -37,25 +37,40 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-about-dark.svg" />
-  <img src="./assets/profile-preview/heading-about-light.svg" width="900" alt="about" />
+  <img src="./assets/profile-preview/heading-about-light.svg" width="900" alt="about me" />
 </picture>
 
-Hi, I'm **Yit Shen**, a 2nd Year Software Engineering Student with a strong interest in building practical solutions or softwares across AI, mobile, web, and automations. I'm also actively participating in hackathons!
+<p align="center">
+  Hi, I'm <strong>Yit Shen</strong>, a second-year Software Engineering student.<br>
+  I enjoy building practical solutions across AI, mobile, web, and automation.<br>
+  I also actively take part in hackathons!
+</p>
 
-*[current interests]:*
-`LLMs` · `AI Agents` · `RAG` · `Automation` · `Full-Stack`
+<p align="center">
+  <strong>Current interests</strong><br>
+  <code>LLMs</code> · <code>AI Agents</code> · <code>RAG</code> · <code>Automation</code> · <code>Full-Stack</code>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stack-dark.svg" />
-  <img src="./assets/profile-preview/heading-stack-light.svg" width="900" alt="stack" />
+  <img src="./assets/profile-preview/heading-stack-light.svg" width="900" alt="tech stack" />
 </picture>
 
-[![Languages](https://skills.syvixor.com/api/icons?i=python,java,ts,js,html,css3,dart,kotlin)](https://github.com/syvixor/skills-icons)
-[![Frameworks and Tools](https://skills.syvixor.com/api/icons?i=nextjs,flutter,supabase,wordpress,n8n,git,github,figma)](https://github.com/syvixor/skills-icons)
+<p align="center">
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=python,java,ts,js,html,css3,dart,kotlin" alt="Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=nextjs,flutter,supabase,wordpress,n8n,git,github,figma" alt="Frameworks and Tools" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-projects-dark.svg" />
-  <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="projects" />
+  <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="featured projects" />
 </picture>
 
 |  |  |  |
