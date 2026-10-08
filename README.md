@@ -34,7 +34,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-about-dark.svg" />
-  <img src="./assets/profile-preview/heading-about-light.svg" width="620" alt="about" />
+  <img src="./assets/profile-preview/heading-about-light.svg" width="900" alt="about" />
 </picture>
 
 Hi, I'm **Yit Shen**, a 2nd Year Software Engineering Student with a strong interest in building practical solutions or softwares across AI, mobile, web, and automations. I'm also actively participating in hackathons!
@@ -44,7 +44,7 @@ Hi, I'm **Yit Shen**, a 2nd Year Software Engineering Student with a strong inte
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stack-dark.svg" />
-  <img src="./assets/profile-preview/heading-stack-light.svg" width="620" alt="stack" />
+  <img src="./assets/profile-preview/heading-stack-light.svg" width="900" alt="stack" />
 </picture>
 
 [![Languages](https://skills.syvixor.com/api/icons?i=python,java,ts,js,html,css3,dart,kotlin)](https://github.com/syvixor/skills-icons)
@@ -52,10 +52,10 @@ Hi, I'm **Yit Shen**, a 2nd Year Software Engineering Student with a strong inte
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-projects-dark.svg" />
-  <img src="./assets/profile-preview/heading-projects-light.svg" width="620" alt="projects" />
+  <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="projects" />
 </picture>
 
-**[WordPress Blog Automation](https://github.com/51-Shenn/wordpress-blog-automation)** &nbsp;·&nbsp; <samp>featured · n8n, OpenAI, WordPress, Google Sheets</samp><br>
+**[WordPress Blog Automation](https://github.com/51-Shenn/wordpress-blog-automation)** &nbsp;·&nbsp; <samp>n8n, OpenAI, WordPress, Google Sheets</samp><br>
 Turns Google Sheets briefs into SEO blog drafts with AI-selected Pexels images, then uploads them to the right WordPress site. Includes status tracking, error logging, and email notifications.<br>
 [Get the n8n template ↗](https://n8n.io/workflows/15814)
 
@@ -70,25 +70,33 @@ SME finance app for expense tracking, financial documents, reports, and an AI as
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stats-dark.svg" />
-  <img src="./assets/profile-preview/heading-stats-light.svg" width="620" alt="stats" />
+  <img src="./assets/profile-preview/heading-stats-light.svg" width="900" alt="stats" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/contributions-dark.svg" />
-  <img src="./assets/profile-preview/contributions-light.svg" width="620" alt="GitHub contribution totals and weekly sparkline" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/contributions-dark.svg" />
+    <img src="./assets/profile-preview/contributions-light.svg" width="620" alt="GitHub contribution totals and weekly sparkline" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/streak-dark.svg" />
-  <img src="./assets/profile-preview/streak-light.svg" width="620" alt="Current and longest GitHub streak within the last year" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/streak-dark.svg" />
+    <img src="./assets/profile-preview/streak-light.svg" width="620" alt="Current and longest GitHub streak within the last year" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/languages-dark.svg" />
-  <img src="./assets/profile-preview/languages-light.svg" width="620" alt="Top languages by bytes and primary repository language" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/languages-dark.svg" />
+    <img src="./assets/profile-preview/languages-light.svg" width="620" alt="Top languages by bytes and primary repository language" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/year-dark.svg" />
-  <img src="./assets/profile-preview/year-light.svg" width="620" alt="GitHub contribution character map for the last 365 days" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/year-dark.svg" />
+    <img src="./assets/profile-preview/year-light.svg" width="620" alt="GitHub contribution character map for the last 365 days" />
+  </picture>
+</p>

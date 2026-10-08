@@ -16,6 +16,7 @@ from profile_stats import fetch, summarize
 
 OUTPUT = Path(__file__).resolve().parents[1] / "assets" / "profile-preview"
 WIDTH = 620
+HEADING_WIDTH = 900
 CONTRIBUTIONS_TEMPLATE = Path(__file__).resolve().parent / 'templates' / 'contributions.svg'
 PALETTES = {
     "light": {"ink": "#424a53", "muted": "#6e7781", "rule": "#d0d7de", "surface": "#ffffff"},
@@ -37,7 +38,7 @@ def line(x1, y1, x2, y2):
 
 def heading(title):
     return 30, label(0, 20, title, 16, "ink", bold=True) + line(
-        len(title) * 10 + 20, 15, WIDTH, 15
+        len(title) * 10 + 20, 15, HEADING_WIDTH, 15
     )
 
 
@@ -124,8 +125,8 @@ def year(stats):
     return 200, "\n".join(parts)
 
 
-def svg(name, height, content, palette):
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="620" height="{height}" viewBox="0 0 620 {height}" role="img" aria-labelledby="title desc">
+def svg(name, height, content, palette, width=WIDTH):
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">
   <title id="title">{escape(name)} — GitHub profile</title>
   <desc id="desc">GitHub profile graphic. Statistics are generated from GitHub data and refreshed daily.</desc>
   <style>
@@ -162,7 +163,8 @@ def main():
             path.write_text(content, encoding='utf-8')
         for name, (height, content) in drawings.items():
             path = OUTPUT / f"{name}-{theme}.svg"
-            content = svg(name, height, content, palette)
+            width = HEADING_WIDTH if name.startswith('heading-') else WIDTH
+            content = svg(name, height, content, palette, width=width)
             if not path.exists() or path.read_text(encoding='utf-8') != content:
                 path.write_text(content, encoding="utf-8")
     snapshot.write_text(json.dumps(data, indent=2) + '\n', encoding='utf-8')
