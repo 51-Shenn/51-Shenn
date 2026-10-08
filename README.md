@@ -31,7 +31,9 @@
 **`Software Engineering`** · **`AI Automation Enthusiast`**
 
 <p>
-  <img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=google-chrome&logoColor=white" href="https://shenn51.vercel.app">
+  <a href="https://shenn51.vercel.app">
+    <img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F51-Sehnn%2F51-Shenn&label=VISITORS&labelColor=%23000&countColor=%230A0209">
 </p>
 
@@ -41,7 +43,7 @@
 </picture>
 
 <p align="left">
-  Hi, I'm <strong>Yit Shen</strong>, a second-year Software Engineering student.<br>
+  Hi, I'm <strong>Yit Shen</strong>, a second-year Software Engineering student.
   I enjoy building practical solutions across AI, mobile, web, and automation.<br>
   I also actively take part in hackathons!
 </p>
