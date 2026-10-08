@@ -40,15 +40,15 @@
   <img src="./assets/profile-preview/heading-about-light.svg" width="900" alt="about me" />
 </picture>
 
-<p align="center">
+<p align="left">
   Hi, I'm <strong>Yit Shen</strong>, a second-year Software Engineering student.<br>
   I enjoy building practical solutions across AI, mobile, web, and automation.<br>
   I also actively take part in hackathons!
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Current interests</strong><br>
-  <code>LLMs</code> · <code>AI Agents</code> · <code>RAG</code> · <code>Automation</code> · <code>Full-Stack</code>
+  <code>LLMs</code> · <code>AI Agents</code> · <code>RAG</code> · <code>Automation</code> · <code>Full-Stack</code> · <code>Machine Learning</code>
 </p>
 
 <picture>

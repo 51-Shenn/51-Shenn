@@ -37,12 +37,8 @@ def line(x1, y1, x2, y2):
 
 
 def heading(title):
-    center = HEADING_WIDTH / 2
-    gap = len(title) * 5 + 20
-    return 30, (
-        label(center, 20, title, 16, "ink", anchor="middle", bold=True)
-        + line(0, 15, center - gap, 15)
-        + line(center + gap, 15, HEADING_WIDTH, 15)
+    return 30, label(0, 20, title, 16, "ink", bold=True) + line(
+        len(title) * 10 + 20, 15, HEADING_WIDTH, 15
     )
 
 
