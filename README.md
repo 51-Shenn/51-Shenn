@@ -30,7 +30,10 @@
 
 **`Software Engineering`** · **`AI Automation Enthusiast`**
 
-[Portfolio ↗](https://YOUR-PORTFOLIO-URL)
+<p>
+  <img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=google-chrome&logoColor=white" href="https://shenn51.vercel.app">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F51-Sehnn%2F51-Shenn&label=VISITORS&labelColor=%23000&countColor=%230A0209">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-about-dark.svg" />
@@ -55,18 +58,12 @@ Hi, I'm **Yit Shen**, a 2nd Year Software Engineering Student with a strong inte
   <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="projects" />
 </picture>
 
-**[WordPress Blog Automation](https://github.com/51-Shenn/wordpress-blog-automation)** &nbsp;·&nbsp; <samp>n8n, OpenAI, WordPress, Google Sheets</samp><br>
-Turns Google Sheets briefs into SEO blog drafts with AI-selected Pexels images, then uploads them to the right WordPress site. Includes status tracking, error logging, and email notifications.<br>
-[Get the n8n template ↗](https://n8n.io/workflows/15814)
-
-**[HoopMind](https://github.com/51-Shenn/hoopmind)** &nbsp;·&nbsp; <samp>Python, Rasa Pro, Dialogflow ES, Botpress</samp><br>
-NBA knowledge chatbot built across three conversational AI platforms, with answers grounded in a shared basketball dataset.
-
-**[SyncField](https://github.com/51-Shenn/sync-field)** &nbsp;·&nbsp; <samp>Next.js, TypeScript, FastAPI, Supabase</samp><br>
-ImagineHack 2026 team project for construction workforce planning and AI-assisted resource management.
-
-**[MyFin](https://github.com/51-Shenn/myfin)** &nbsp;·&nbsp; <samp>Flutter, Dart, Firebase, Gemini</samp><br>
-SME finance app for expense tracking, financial documents, reports, and an AI assistant.
+|  |  |  |
+| --- | --- | --- |
+| **[WordPress Blog Automation](https://github.com/51-Shenn/wordpress-blog-automation)** | Turns Google Sheets briefs into SEO blog drafts with AI-selected Pexels images, then uploads them to the right WordPress site. Includes status tracking, error logging, and email notifications. <br>[Get the n8n template ↗](https://n8n.io/workflows/15814) | <samp>n8n, OpenAI, WordPress, Google Sheets</samp> |
+| **[HoopMind](https://github.com/51-Shenn/hoopmind)** | NBA knowledge chatbot built across three conversational AI platforms, with answers grounded in a shared basketball dataset. | <samp>Python, Rasa Pro, Dialogflow ES, Botpress</samp> |
+| **[SyncField](https://github.com/51-Shenn/sync-field)** | ImagineHack 2026 team project for construction workforce planning and AI-assisted resource management. | <samp>Next.js, TypeScript, FastAPI, Supabase</samp> |
+| **[MyFin](https://github.com/51-Shenn/myfin)** | SME finance app for expense tracking, financial documents, reports, and an AI assistant. | <samp>Flutter, Dart, Firebase, Gemini</samp> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stats-dark.svg" />
@@ -99,4 +96,11 @@ SME finance app for expense tracking, financial documents, reports, and an AI as
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/year-dark.svg" />
     <img src="./assets/profile-preview/year-light.svg" width="620" alt="GitHub contribution character map for the last 365 days" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <strong>阅己 &nbsp;·&nbsp; 悦己 &nbsp;·&nbsp; 越己</strong><br>
+  <em>Always strive for self-improvement.</em>
 </p>
