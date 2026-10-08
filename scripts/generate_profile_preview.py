@@ -154,10 +154,10 @@ def main():
     data = json.loads(snapshot.read_text(encoding='utf-8')) if args.cached else fetch(args.login)
     stats = summarize(data)
     headings = {
-        'about': 'about me',
-        'stack': 'tech stack',
-        'projects': 'featured projects',
-        'stats': 'stats',
+        'about': 'About Me',
+        'stack': 'Tech Stack',
+        'projects': 'Featured Projects',
+        'stats': 'GitHub Stats',
     }
     drawings = {f'heading-{name}': heading(title) for name, title in headings.items()}
     drawings.update(streak=streak(stats), languages=languages(stats), year=year(stats))

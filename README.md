@@ -37,7 +37,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-about-dark.svg" />
-  <img src="./assets/profile-preview/heading-about-light.svg" width="900" alt="about me" />
+  <img src="./assets/profile-preview/heading-about-light.svg" width="900" alt="About Me" />
 </picture>
 
 <p align="left">
@@ -53,7 +53,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stack-dark.svg" />
-  <img src="./assets/profile-preview/heading-stack-light.svg" width="900" alt="tech stack" />
+  <img src="./assets/profile-preview/heading-stack-light.svg" width="900" alt="Tech Stack" />
 </picture>
 
 <p align="center">
@@ -70,7 +70,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-projects-dark.svg" />
-  <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="featured projects" />
+  <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="Featured Projects" />
 </picture>
 
 |  |  |  |
@@ -82,7 +82,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stats-dark.svg" />
-  <img src="./assets/profile-preview/heading-stats-light.svg" width="900" alt="stats" />
+  <img src="./assets/profile-preview/heading-stats-light.svg" width="900" alt="GitHub Stats" />
 </picture>
 
 <p align="center">
