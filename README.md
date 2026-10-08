@@ -30,49 +30,65 @@
 
 **`Software Engineering`** · **`AI Automation Enthusiast`**
 
-Hi, I'm **Yit Shen**, a Second Year Software Engineering Student with a strong interest in building automations that makes everyone life easier!
-
-### Current Interests
-`LLMs` · `AI Agents` · `RAG` · `Automation` · `Full-Stack`
-
-## Tech Stack
-
-### Languages
-
-[![Languages](https://skills.syvixor.com/api/icons?i=python,java,ts,js,html,css3,dart)](https://github.com/syvixor/skills-icons)
-
-### Frameworks & Tools
-
-[![Frameworks and Tools](https://skills.syvixor.com/api/icons?i=nextjs,flutter,supabase,wordpress,n8n,git,github,figma)](https://github.com/syvixor/skills-icons)
-
-## GitHub Stats
+[Portfolio ↗](https://YOUR-PORTFOLIO-URL)
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=light&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
-  />
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-about-dark.svg" />
+  <img src="./assets/profile-preview/heading-about-light.svg" width="620" alt="about" />
+</picture>
+
+Hi, I'm **Yit Shen**, a 2nd Year Software Engineering Student with a strong interest in building practical solutions or softwares across AI, mobile, web, and automations. I'm also actively participating in hackathons!
+
+*[current interests]:*
+`LLMs` · `AI Agents` · `RAG` · `Automation` · `Full-Stack`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stack-dark.svg" />
+  <img src="./assets/profile-preview/heading-stack-light.svg" width="620" alt="stack" />
+</picture>
+
+[![Languages](https://skills.syvixor.com/api/icons?i=python,java,ts,js,html,css3,dart,kotlin)](https://github.com/syvixor/skills-icons)
+[![Frameworks and Tools](https://skills.syvixor.com/api/icons?i=nextjs,flutter,supabase,wordpress,n8n,git,github,figma)](https://github.com/syvixor/skills-icons)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-projects-dark.svg" />
+  <img src="./assets/profile-preview/heading-projects-light.svg" width="620" alt="projects" />
+</picture>
+
+**[WordPress Blog Automation](https://github.com/51-Shenn/wordpress-blog-automation)** &nbsp;·&nbsp; <samp>featured · n8n, OpenAI, WordPress, Google Sheets</samp><br>
+Turns Google Sheets briefs into SEO blog drafts with AI-selected Pexels images, then uploads them to the right WordPress site. Includes status tracking, error logging, and email notifications.<br>
+[Get the n8n template ↗](https://n8n.io/workflows/15814)
+
+**[HoopMind](https://github.com/51-Shenn/hoopmind)** &nbsp;·&nbsp; <samp>Python, Rasa Pro, Dialogflow ES, Botpress</samp><br>
+NBA knowledge chatbot built across three conversational AI platforms, with answers grounded in a shared basketball dataset.
+
+**[SyncField](https://github.com/51-Shenn/sync-field)** &nbsp;·&nbsp; <samp>Next.js, TypeScript, FastAPI, Supabase</samp><br>
+ImagineHack 2026 team project for construction workforce planning and AI-assisted resource management.
+
+**[MyFin](https://github.com/51-Shenn/myfin)** &nbsp;·&nbsp; <samp>Flutter, Dart, Firebase, Gemini</samp><br>
+SME finance app for expense tracking, financial documents, reports, and an AI assistant.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stats-dark.svg" />
+  <img src="./assets/profile-preview/heading-stats-light.svg" width="620" alt="stats" />
 </picture>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/contributions-dark.svg" />
+  <img src="./assets/profile-preview/contributions-light.svg" width="620" alt="GitHub contribution totals and weekly sparkline" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/streak-dark.svg" />
+  <img src="./assets/profile-preview/streak-light.svg" width="620" alt="Current and longest GitHub streak within the last year" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/languages-dark.svg" />
+  <img src="./assets/profile-preview/languages-light.svg" width="620" alt="Top languages by bytes and primary repository language" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/year-dark.svg" />
+  <img src="./assets/profile-preview/year-light.svg" width="620" alt="GitHub contribution character map for the last 365 days" />
 </picture>
