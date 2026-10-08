@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30" role="img" aria-labelledby="title desc">
+  <title id="title">heading-stats — GitHub profile</title>
+  <desc id="desc">GitHub profile graphic. Statistics are generated from GitHub data and refreshed daily.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #e6edf3; }
+    .muted { fill: #9198a1; }
+    .rule { stroke: #30363d; stroke-width: 1; }
+    .track { fill: #30363d; }
+    .plot { stroke: #9198a1; stroke-dasharray: 4000; }
+    @media (prefers-reduced-motion: reduce) {
+      .plot { stroke-dasharray: none; }
+    }
+  </style>
+  <text x="0" y="20" class="ink" font-size="16" text-anchor="start" font-weight="600">stats</text><line x1="70" y1="15" x2="900" y2="15" class="rule"/>
+</svg>

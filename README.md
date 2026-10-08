@@ -6,6 +6,7 @@
     />
   </a>
 </p>
+
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=F76088&vCenter=false&repeat=false&width=200&lines=Tan+Yit+Shen" 
@@ -19,53 +20,87 @@
 	align="right" 
   />
 </a>
+<a href="https://github.com/51-Shenn/">
+  <img 
+    src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/github.svg" 
+	alt="GitHub" 
+	align="right" 
+  />
+</a>
 
-**`Computer Science Major`** `|` **`AI Automation Enthusiast`**
+**`Software Engineering`** · **`AI Automation Enthusiast`**
 
-Hi, I'm **Yit Shen**, a Second Year Computer Science Student with a strong interest in building automations that makes everyone life easier! 
+<p>
+  <img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=google-chrome&logoColor=white" href="https://shenn51.vercel.app">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F51-Sehnn%2F51-Shenn&label=VISITORS&labelColor=%23000&countColor=%230A0209">
+</p>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/51-Shenn/51-Shenn/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-about-dark.svg" />
+  <img src="./assets/profile-preview/heading-about-light.svg" width="900" alt="about" />
 </picture>
 
-## My Tech Stack
+Hi, I'm **Yit Shen**, a 2nd Year Software Engineering Student with a strong interest in building practical solutions or softwares across AI, mobile, web, and automations. I'm also actively participating in hackathons!
 
-### Languages
-
-[![Languages](https://skills.syvixor.com/api/icons?i=python,java,cpp)](https://github.com/syvixor/skills-icons)
-
-### Web & Mobile
-
-[![Web and Mobile](https://skills.syvixor.com/api/icons?i=html,css3,js,ts,wordpress,tailwind,nextjs,flutter,dart,kotlin,android)](https://github.com/syvixor/skills-icons)
-
-### Backend & Tools
-
-[![Backend and Tools](https://skills.syvixor.com/api/icons?i=postgresql,drizzle,supabase,firebase,n8n,git,github,figma,inkscape)](https://github.com/syvixor/skills-icons)
-
-## GitHub Stats
+*[current interests]:*
+`LLMs` · `AI Agents` · `RAG` · `Automation` · `Full-Stack`
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=51-Shenn&theme=light&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
-  />
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=51-Shenn&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stack-dark.svg" />
+  <img src="./assets/profile-preview/heading-stack-light.svg" width="900" alt="stack" />
 </picture>
+
+[![Languages](https://skills.syvixor.com/api/icons?i=python,java,ts,js,html,css3,dart,kotlin)](https://github.com/syvixor/skills-icons)
+[![Frameworks and Tools](https://skills.syvixor.com/api/icons?i=nextjs,flutter,supabase,wordpress,n8n,git,github,figma)](https://github.com/syvixor/skills-icons)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-projects-dark.svg" />
+  <img src="./assets/profile-preview/heading-projects-light.svg" width="900" alt="projects" />
+</picture>
+
+|  |  |  |
+| --- | --- | --- |
+| **[WordPress Blog Automation](https://github.com/51-Shenn/wordpress-blog-automation)** | Turns Google Sheets briefs into SEO blog drafts with AI-selected Pexels images, then uploads them to the right WordPress site. Includes status tracking, error logging, and email notifications. <br>[Get the n8n template ↗](https://n8n.io/workflows/15814) | <samp>n8n, OpenAI, WordPress, Google Sheets</samp> |
+| **[HoopMind](https://github.com/51-Shenn/hoopmind)** | NBA knowledge chatbot built across three conversational AI platforms, with answers grounded in a shared basketball dataset. | <samp>Python, Rasa Pro, Dialogflow ES, Botpress</samp> |
+| **[SyncField](https://github.com/51-Shenn/sync-field)** | ImagineHack 2026 team project for construction workforce planning and AI-assisted resource management. | <samp>Next.js, TypeScript, FastAPI, Supabase</samp> |
+| **[MyFin](https://github.com/51-Shenn/myfin)** | SME finance app for expense tracking, financial documents, reports, and an AI assistant. | <samp>Flutter, Dart, Firebase, Gemini</samp> |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/heading-stats-dark.svg" />
+  <img src="./assets/profile-preview/heading-stats-light.svg" width="900" alt="stats" />
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/contributions-dark.svg" />
+    <img src="./assets/profile-preview/contributions-light.svg" width="620" alt="GitHub contribution totals and weekly sparkline" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/streak-dark.svg" />
+    <img src="./assets/profile-preview/streak-light.svg" width="620" alt="Current and longest GitHub streak within the last year" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/languages-dark.svg" />
+    <img src="./assets/profile-preview/languages-light.svg" width="620" alt="Top languages by bytes and primary repository language" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-preview/year-dark.svg" />
+    <img src="./assets/profile-preview/year-light.svg" width="620" alt="GitHub contribution character map for the last 365 days" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <strong>阅己 &nbsp;·&nbsp; 悦己 &nbsp;·&nbsp; 越己</strong><br>
+  <em>Always strive for self-improvement.</em>
+</p>

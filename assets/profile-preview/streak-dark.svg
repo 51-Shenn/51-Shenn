@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="126" viewBox="0 0 620 126" role="img" aria-labelledby="title desc">
+  <title id="title">streak — GitHub profile</title>
+  <desc id="desc">GitHub profile graphic. Statistics are generated from GitHub data and refreshed daily.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #e6edf3; }
+    .muted { fill: #9198a1; }
+    .rule { stroke: #30363d; stroke-width: 1; }
+    .track { fill: #30363d; }
+    .plot { stroke: #9198a1; stroke-dasharray: 4000; }
+    @media (prefers-reduced-motion: reduce) {
+      .plot { stroke-dasharray: none; }
+    }
+  </style>
+  <line x1="310" y1="18" x2="310" y2="90" class="rule"/>
+<text x="0" y="49" class="ink" font-size="34" text-anchor="start" font-weight="600">7</text>
+<text x="0" y="71" class="muted" font-size="11" text-anchor="start">current streak</text>
+<text x="0" y="90" class="muted" font-size="10" text-anchor="start">2026-10-01 – 2026-10-07</text>
+<text x="344" y="49" class="ink" font-size="34" text-anchor="start" font-weight="600">16</text>
+<text x="344" y="71" class="muted" font-size="11" text-anchor="start">longest streak</text>
+<text x="344" y="90" class="muted" font-size="10" text-anchor="start">2026-05-17 – 2026-06-01</text>
+<text x="0" y="112" class="muted" font-size="9" text-anchor="start">consecutive active days · within the last 365 days</text>
+</svg>

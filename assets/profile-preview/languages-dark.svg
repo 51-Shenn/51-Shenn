@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="190" viewBox="0 0 620 190" role="img" aria-labelledby="title desc">
+  <title id="title">languages — GitHub profile</title>
+  <desc id="desc">GitHub profile graphic. Statistics are generated from GitHub data and refreshed daily.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #e6edf3; }
+    .muted { fill: #9198a1; }
+    .rule { stroke: #30363d; stroke-width: 1; }
+    .track { fill: #30363d; }
+    .plot { stroke: #9198a1; stroke-dasharray: 4000; }
+    @media (prefers-reduced-motion: reduce) {
+      .plot { stroke-dasharray: none; }
+    }
+  </style>
+  <text x="0" y="16" class="muted" font-size="10" text-anchor="start">BY BYTES</text>
+<text x="0" y="44" class="ink" font-size="11" text-anchor="start">Dart</text>
+<rect x="106" y="36" width="140.00" height="6" rx="2" class="track"/>
+<text x="288" y="44" class="muted" font-size="11" text-anchor="end">27%</text>
+<text x="0" y="69" class="ink" font-size="11" text-anchor="start">Python</text>
+<rect x="106" y="61" width="133.37" height="6" rx="2" class="track"/>
+<text x="288" y="69" class="muted" font-size="11" text-anchor="end">26%</text>
+<text x="0" y="94" class="ink" font-size="11" text-anchor="start">Java</text>
+<rect x="106" y="86" width="89.43" height="6" rx="2" class="track"/>
+<text x="288" y="94" class="muted" font-size="11" text-anchor="end">18%</text>
+<text x="0" y="119" class="ink" font-size="11" text-anchor="start">C++</text>
+<rect x="106" y="111" width="58.58" height="6" rx="2" class="track"/>
+<text x="288" y="119" class="muted" font-size="11" text-anchor="end">11%</text>
+<text x="0" y="144" class="ink" font-size="11" text-anchor="start">TypeScript</text>
+<rect x="106" y="136" width="44.62" height="6" rx="2" class="track"/>
+<text x="288" y="144" class="muted" font-size="11" text-anchor="end">9%</text>
+<text x="330" y="16" class="muted" font-size="10" text-anchor="start">BY REPOS</text>
+<text x="330" y="44" class="ink" font-size="11" text-anchor="start">Python</text>
+<rect x="436" y="36" width="140.00" height="6" rx="2" class="track"/>
+<text x="618" y="44" class="muted" font-size="11" text-anchor="end">4</text>
+<text x="330" y="69" class="ink" font-size="11" text-anchor="start">C#</text>
+<rect x="436" y="61" width="35.00" height="6" rx="2" class="track"/>
+<text x="618" y="69" class="muted" font-size="11" text-anchor="end">1</text>
+<text x="330" y="94" class="ink" font-size="11" text-anchor="start">C++</text>
+<rect x="436" y="86" width="35.00" height="6" rx="2" class="track"/>
+<text x="618" y="94" class="muted" font-size="11" text-anchor="end">1</text>
+<text x="330" y="119" class="ink" font-size="11" text-anchor="start">Dart</text>
+<rect x="436" y="111" width="35.00" height="6" rx="2" class="track"/>
+<text x="618" y="119" class="muted" font-size="11" text-anchor="end">1</text>
+<text x="330" y="144" class="ink" font-size="11" text-anchor="start">Java</text>
+<rect x="436" y="136" width="35.00" height="6" rx="2" class="track"/>
+<text x="618" y="144" class="muted" font-size="11" text-anchor="end">1</text>
+<text x="0" y="175" class="muted" font-size="9" text-anchor="start">public owned repos · forks excluded · by repos = primary language</text>
+</svg>
