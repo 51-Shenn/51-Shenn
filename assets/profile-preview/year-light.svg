@@ -13,7 +13,7 @@
     }
   </style>
   <text x="0" y="16" class="muted" font-size="10" text-anchor="start">THE YEAR</text>
-<text x="0" y="37" class="muted" font-size="11" text-anchor="start">113 of 365 days had a contribution</text>
+<text x="0" y="37" class="muted" font-size="11" text-anchor="start">114 of 365 days had a contribution</text>
 <text x="620" y="37" class="muted" font-size="9" text-anchor="end">less · : + # @ more</text>
 <text x="44.8" y="62" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="55.6" y="62" class="muted" font-size="10" text-anchor="start">·</text>
@@ -225,7 +225,6 @@
 <text x="574.0" y="101" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="584.8000000000001" y="101" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="595.6" y="101" class="ink" font-size="10" text-anchor="start">:</text>
-<text x="34.0" y="114" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="44.8" y="114" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="55.6" y="114" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="66.4" y="114" class="ink" font-size="10" text-anchor="start">+</text>
@@ -331,6 +330,7 @@
 <text x="563.2" y="127" class="ink" font-size="10" text-anchor="start">:</text>
 <text x="574.0" y="127" class="ink" font-size="10" text-anchor="start">:</text>
 <text x="584.8000000000001" y="127" class="ink" font-size="10" text-anchor="start">@</text>
+<text x="595.6" y="127" class="ink" font-size="10" text-anchor="start">:</text>
 <text x="34.0" y="140" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="44.8" y="140" class="muted" font-size="10" text-anchor="start">·</text>
 <text x="55.6" y="140" class="muted" font-size="10" text-anchor="start">·</text>
@@ -385,5 +385,5 @@
 <text x="584.8000000000001" y="140" class="ink" font-size="10" text-anchor="start">+</text>
 <text x="34" y="163" class="muted" font-size="9" text-anchor="start">older</text>
 <text x="606" y="163" class="muted" font-size="9" text-anchor="end">newer</text>
-<text x="0" y="188" class="muted" font-size="9" text-anchor="start">2025-10-09 – 2026-10-08</text>
+<text x="0" y="188" class="muted" font-size="9" text-anchor="start">2025-10-10 – 2026-10-09</text>
 </svg>
