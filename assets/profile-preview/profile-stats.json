@@ -2,10 +2,6 @@
   "login": "51-Shenn",
   "days": [
     {
-      "date": "2025-10-11",
-      "count": 0
-    },
-    {
       "date": "2025-10-12",
       "count": 0
     },
@@ -1459,7 +1455,11 @@
     },
     {
       "date": "2026-10-10",
-      "count": 0
+      "count": 22
+    },
+    {
+      "date": "2026-10-11",
+      "count": 17
     }
   ],
   "languages": [
@@ -1474,6 +1474,11 @@
       "repos": 5
     },
     {
+      "name": "TypeScript",
+      "bytes": 654645,
+      "repos": 2
+    },
+    {
       "name": "Java",
       "bytes": 570823,
       "repos": 1
@@ -1484,13 +1489,13 @@
       "repos": 1
     },
     {
-      "name": "TypeScript",
-      "bytes": 284787,
-      "repos": 1
+      "name": "HTML",
+      "bytes": 270520,
+      "repos": 0
     },
     {
-      "name": "HTML",
-      "bytes": 148337,
+      "name": "JavaScript",
+      "bytes": 125025,
       "repos": 0
     },
     {
@@ -1514,8 +1519,8 @@
       "repos": 0
     },
     {
-      "name": "JavaScript",
-      "bytes": 6495,
+      "name": "CSS",
+      "bytes": 6080,
       "repos": 0
     },
     {
@@ -1541,11 +1546,6 @@
     {
       "name": "Batchfile",
       "bytes": 1261,
-      "repos": 0
-    },
-    {
-      "name": "CSS",
-      "bytes": 1239,
       "repos": 0
     },
     {
